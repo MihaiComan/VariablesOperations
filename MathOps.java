@@ -32,6 +32,6 @@ public class MathOps {
     double b = Math.cos(x) * Math.cos(x);
     double sum = a + b ;
     
-    System.out.println("Suma Patratelor este ") + " = " + sum));
+    System.out.println("Suma Patratelor este " + " = " + sum);
   }
 }
